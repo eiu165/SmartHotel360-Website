@@ -289,3 +289,7 @@ __pycache__/
 *.xsd.cs
 .DS_Store
 SmartHotel360.PublicWeb/ClientApp/src/scss/site.css
+.vscode/tasks.json
+.vscode/extensions.json
+.vscode/settings.json
+.vscode/launch.json
